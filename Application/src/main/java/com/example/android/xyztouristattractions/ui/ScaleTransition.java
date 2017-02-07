@@ -1,4 +1,4 @@
-package com.example.android.xyztouristattractions.ui;
+package com.qutet.ad.xyztouristattractions.ui;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;

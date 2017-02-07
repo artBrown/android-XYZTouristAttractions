@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.service;
+package com.qutet.ad.xyztouristattractions.service;
 
 import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
 
-import com.example.android.xyztouristattractions.ui.DetailActivity;
+import com.qutet.ad.xyztouristattractions.ui.DetailActivity;
 import com.google.android.gms.wearable.MessageEvent;
 import com.google.android.gms.wearable.WearableListenerService;
-import com.example.android.xyztouristattractions.common.Constants;
+import com.qutet.ad.xyztouristattractions.common.Constants;
 
 /**
  * A Wear listener service, used to receive inbound messages from

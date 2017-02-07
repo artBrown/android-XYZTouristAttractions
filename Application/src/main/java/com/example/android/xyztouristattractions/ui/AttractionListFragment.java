@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.ui;
+package com.qutet.ad.xyztouristattractions.ui;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -33,12 +33,12 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.example.android.xyztouristattractions.R;
-import com.example.android.xyztouristattractions.common.Attraction;
-import com.example.android.xyztouristattractions.common.Constants;
-import com.example.android.xyztouristattractions.common.Utils;
-import com.example.android.xyztouristattractions.provider.TouristAttractions;
-import com.example.android.xyztouristattractions.service.UtilityService;
+import com.qutet.ad.xyztouristattractions.R;
+import com.qutet.ad.xyztouristattractions.common.Attraction;
+import com.qutet.ad.xyztouristattractions.common.Constants;
+import com.qutet.ad.xyztouristattractions.common.Utils;
+import com.qutet.ad.xyztouristattractions.provider.TouristAttractions;
+import com.qutet.ad.xyztouristattractions.service.UtilityService;
 import com.google.android.gms.location.FusedLocationProviderApi;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.SphericalUtil;
@@ -47,12 +47,12 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import static com.example.android.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
+import static com.qutet.ad.xyztouristattractions.provider.TouristAttractions.ATTRACTIONS;
 
 /**
  * The main tourist attraction fragment which contains a list of attractions
  * sorted by distance (contained inside
- * {@link com.example.android.xyztouristattractions.ui.AttractionListActivity}).
+ * {@link com.qutet.ad.xyztouristattractions.ui.AttractionListActivity}).
  */
 public class AttractionListFragment extends Fragment {
 

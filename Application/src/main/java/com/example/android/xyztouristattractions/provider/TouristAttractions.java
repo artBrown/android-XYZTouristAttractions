@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.provider;
+package com.qutet.ad.xyztouristattractions.provider;
 
 import android.net.Uri;
 
-import com.example.android.xyztouristattractions.common.Attraction;
+import com.qutet.ad.xyztouristattractions.common.Attraction;
 import com.google.android.gms.location.Geofence;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.maps.android.SphericalUtil;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.service;
+package com.qutet.ad.xyztouristattractions.service;
 
 import android.app.IntentService;
 import android.app.NotificationManager;
@@ -22,9 +22,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.example.android.xyztouristattractions.R;
-import com.example.android.xyztouristattractions.common.Constants;
-import com.example.android.xyztouristattractions.common.Utils;
+import com.qutet.ad.xyztouristattractions.R;
+import com.qutet.ad.xyztouristattractions.common.Constants;
+import com.qutet.ad.xyztouristattractions.common.Utils;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.wearable.CapabilityApi;

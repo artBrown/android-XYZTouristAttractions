@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.common;
+package com.qutet.ad.xyztouristattractions.common;
 
 public class Constants {
 

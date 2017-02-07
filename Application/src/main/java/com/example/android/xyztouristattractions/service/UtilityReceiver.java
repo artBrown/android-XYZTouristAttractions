@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.service;
+package com.qutet.ad.xyztouristattractions.service;
 
 import android.content.Context;
 import android.content.Intent;
@@ -23,7 +23,7 @@ import android.support.v4.content.WakefulBroadcastReceiver;
 /**
  * A simply utility receiver used to ensure the device stays awake for the
  * duration of the work being done by
- * {@link com.example.android.xyztouristattractions.service.UtilityService}.
+ * {@link com.qutet.ad.xyztouristattractions.service.UtilityService}.
  */
 public class UtilityReceiver extends WakefulBroadcastReceiver {
 

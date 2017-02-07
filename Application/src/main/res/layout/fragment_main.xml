@@ -22,7 +22,7 @@
     android:orientation="vertical"
     tools:context=".AttractionListFragment">
 
-    <com.example.android.xyztouristattractions.ui.AttractionsRecyclerView
+    <com.qutet.ad.xyztouristattractions.ui.AttractionsRecyclerView
         android:id="@android:id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

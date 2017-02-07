@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.common;
+package com.qutet.ad.xyztouristattractions.common;
 
 import android.Manifest;
 import android.content.Context;

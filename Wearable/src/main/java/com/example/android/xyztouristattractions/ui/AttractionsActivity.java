@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.xyztouristattractions.ui;
+package com.qutet.ad.xyztouristattractions.ui;
 
 import android.app.Activity;
 import android.content.Context;
@@ -34,11 +34,11 @@ import android.view.WindowInsets;
 import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 
-import com.example.android.xyztouristattractions.R;
-import com.example.android.xyztouristattractions.common.Attraction;
-import com.example.android.xyztouristattractions.common.Constants;
-import com.example.android.xyztouristattractions.common.Utils;
-import com.example.android.xyztouristattractions.service.UtilityService;
+import com.qutet.ad.xyztouristattractions.R;
+import com.qutet.ad.xyztouristattractions.common.Attraction;
+import com.qutet.ad.xyztouristattractions.common.Constants;
+import com.qutet.ad.xyztouristattractions.common.Utils;
+import com.qutet.ad.xyztouristattractions.service.UtilityService;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.maps.model.LatLng;

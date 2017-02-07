@@ -17,7 +17,7 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.android.xyztouristattractions">
+    package="com.qutet.ad.xyztouristattractions">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -72,7 +72,7 @@
             android:value="@integer/google_play_services_version" />
 
         <meta-data
-            android:name="com.example.android.xyztouristattractions.config.GlideConfiguration"
+            android:name="com.qutet.ad.xyztouristattractions.config.GlideConfiguration"
             android:value="GlideModule"/>
 
     </application>
